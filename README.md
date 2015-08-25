@@ -3,7 +3,7 @@ Update_CSD
 
 ##What is it?
 
-[CSD](http://github.com/flum.pw/csd)にデータを送信するやつです。  
+[CSD](http://github.com/flum1025/csd)にデータを送信するやつです。  
 linux用です。windowsはめんどくさくて作るのやめました。  
 
 動作確認はruby 2.0.0p481とruby 1.9.3p484です。
